@@ -1,0 +1,15 @@
+Attaching to plugify_app_1
+[36mapp_1  |[0m /usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/lib/bundler/spec_set.rb:94:in `block in materialize': Could not find bcrypt-3.1.12 in any of the sources (Bundler::GemNotFound)
+[36mapp_1  |[0m 	from /usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/lib/bundler/spec_set.rb:87:in `map!'
+[36mapp_1  |[0m 	from /usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/lib/bundler/spec_set.rb:87:in `materialize'
+[36mapp_1  |[0m 	from /usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/lib/bundler/definition.rb:137:in `specs'
+[36mapp_1  |[0m 	from /usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/lib/bundler/definition.rb:182:in `specs_for'
+[36mapp_1  |[0m 	from /usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/lib/bundler/definition.rb:171:in `requested_specs'
+[36mapp_1  |[0m 	from /usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/lib/bundler/environment.rb:18:in `requested_specs'
+[36mapp_1  |[0m 	from /usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/lib/bundler/runtime.rb:13:in `setup'
+[36mapp_1  |[0m 	from /usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/lib/bundler.rb:92:in `setup'
+[36mapp_1  |[0m 	from /usr/local/lib/ruby/gems/2.3.0/gems/bundler-1.11.2/lib/bundler/setup.rb:18:in `<top (required)>'
+[36mapp_1  |[0m 	from /usr/local/lib/ruby/site_ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+[36mapp_1  |[0m 	from /usr/local/lib/ruby/site_ruby/2.3.0/rubygems/core_ext/kernel_require.rb:55:in `require'
+[36mplugify_app_1 exited with code 1
+[0m
