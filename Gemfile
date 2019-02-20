@@ -19,6 +19,7 @@ gem 'jbuilder', '~> 2.5'
 # gem 'redis', '~> 3.0'
 # Use ActiveModel has_secure_password
 gem 'bcrypt'
+gem "pundit"
 
 # Use Capistrano for deployment
 # gem 'capistrano-rails', group: :development
